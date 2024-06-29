@@ -2,7 +2,7 @@
 
 ## Description
 
-This a data analysis project where I gather simple statistics from the Lichess November, 2023 database.
+This is a data analysis project where I gather simple statistics from the Lichess November, 2023 database.
 
 I use csv's, SQL and Python. All the relevant code as well as step-by-step descriptions are in the notebook.ipynb file.
 
